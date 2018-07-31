@@ -2,14 +2,14 @@
 
 /* 回答はここに書いてね */
 .largebox{
-  background-color: #eff3f4
+  background-color: #eff3f4;
   width:940px;
 }
 
 .clearfix:after {
   display: block;
   content: "";
-  clear: both:
+  clear: both;
 }
 
 .triple_box{
@@ -17,7 +17,7 @@
 }
 
 .in_the_box{
-  background-color: #eaf4ff
+  background-color: #eaf4ff;
   margin:20px;
   font-size: 16px;
   line-height: 16px;
