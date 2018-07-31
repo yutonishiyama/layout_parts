@@ -13,7 +13,10 @@
 }
 
 .triple_box{
-
+  border: 10px #022336;
+  padding: 20px #3274ae;
+  margin-left: 20px;
+  width: 230px;
 }
 
 .in_the_box{
